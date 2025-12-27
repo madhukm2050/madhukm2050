@@ -8,7 +8,6 @@ I’m a Computer Science student passionate about backend development, building 
 
 ## 🧑‍💻 What I Do
 - Build backend applications using **Java & Spring Boot**
-- Design and document **RESTful APIs** (Swagger / OpenAPI)
 - Work with **MySQL** and backend data modeling
 - Solve **DSA & competitive programming** problems consistently
 - Mentor and guide students in programming fundamentals
